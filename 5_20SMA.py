@@ -21,8 +21,7 @@ today = str(timestamps[0])
 
 yesterday = timestamps[1]
 parva = timestamps[2]
-terva = timestamps[3]
-# print(today)
+terva = timestamps[3]print(today)
 # print(yesterday)
 # print(parva)
 print(terva)
